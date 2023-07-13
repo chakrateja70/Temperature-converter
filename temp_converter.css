@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2NlbHNpdXMtY29udmVydC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+}
+
+.temp-container {
+    margin: 100px;
+    text-align: center;
+    background-color: #f9fbfe;
+    height: 500px;
+    border-radius: 16px;
+    border-width: 2px;
+    border-color: #41b7bf;
+    border-style: solid;
+}
+
+.temp-heading {
+    font-family: "Times New Roman";
+    padding: 18px;
+}
+
+.heading {
+    font-family: cursive;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.input-type {
+    font-family: Comic Sans MS;
+}
+
+.button {
+    margin: 30px;
+}
+
+.result {
+    margin: 10%;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: black;
+    margin-top: 30px;
+}
